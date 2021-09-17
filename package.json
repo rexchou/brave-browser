@@ -38,7 +38,7 @@
       "brave-core": {
         "dir": "src/brave",
         "repository": {
-          "url": "https://github.com/brave/brave-core.git"
+          "url": "https://github.com/rexchou/brave-core.git"
         },
         "tag": "v1.17.40"
       }
